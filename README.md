@@ -13,7 +13,7 @@ Following code is partly based on following guide: https://lightning.ai/docs/pyt
 
 ### Set up the enviroment
 
-Make sure that Python 3.10 and Poetry are installed on your system. Run following comends to set up the virtual enviroment
+Make sure that Python 3.10 and Poetry are installed on your system. Run following commands to set up the virtual enviroment
 
 ```
 poetry install
