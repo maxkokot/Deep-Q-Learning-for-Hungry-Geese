@@ -1,0 +1,10 @@
+model_dir: ../models
+
+lr: 0.001                        
+replay_size: 1000                
+num_epochs: 5000                 
+warm_start_size: 3000            
+batch_size: 16                   
+plc_sync_rate: 5                
+tgt_sync_rate: 10                
+random_state: 2024               
